@@ -46,6 +46,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <script src="https://www-infinity4.github.io/Mint-For-Infinity/infinity-wallet-menu.js" defer></script>
       </body>
     </html>
   );
